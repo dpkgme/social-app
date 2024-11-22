@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2023-12-22 01:46+0530\n"
+"POT-Creation-Date: 2024-11-21 15:54+0530\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -80,23 +80,23 @@ msgstr "{0, plural, one {Like} other {Likes}}"
 #: src/components/FeedCard.tsx:213
 #: src/view/com/feeds/FeedSourceCard.tsx:303
 msgid "{0, plural, one {Liked by # user} other {Liked by # users}}"
-msgstr "{0, plural, one {Von # Konto geliked} other {Von # Konten geliked}}"
+msgstr "{0, plural, one {Αρέσει στον # χρήστη} other {Αρέσει στους # χρήστες}}"
 
 #: src/screens/Profile/Header/Metrics.tsx:59
 msgid "{0, plural, one {post} other {posts}}"
-msgstr "{0, plural, one {Beitrag} other {Beiträge}}"
+msgstr "{0, plural, one {Δημοσίευση} other {Δημοσιεύσεις}}"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:426
 msgid "{0, plural, one {quote} other {quotes}}"
-msgstr ""
+msgstr "{0, plural, one {Παράθεση} other {Παραθέσεις}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:261
 msgid "{0, plural, one {Reply (# reply)} other {Reply (# replies)}}"
-msgstr "{0, plural, one {Antworten (# Antwort)} other {Antworten (# Antworten)}}"
+msgstr "{0, plural, one {Απάντηση (# Απάντηση)} other {Απαντήσεις (# Απαντήσεις)}}"
 
 #: src/view/com/post-thread/PostThreadItem.tsx:408
 msgid "{0, plural, one {repost} other {reposts}}"
-msgstr "{0, plural, one {Repost} other {Reposts}}"
+msgstr "{0, plural, one {Αναδημοσίευση} other {Αναδημοσιεύσεις}}"
 
 #: src/view/com/util/post-ctrls/PostCtrls.tsx:301
 msgid "{0, plural, one {Unlike (# like)} other {Unlike (# likes)}}"
@@ -118,7 +118,7 @@ msgstr ""
 
 #: src/screens/StarterPack/StarterPackLandingScreen.tsx:219
 msgid "{0} joined this week"
-msgstr "{0} sind diese Woche beigetreten"
+msgstr "{0} δημιούργησε λογαριασμό αυτή την εβδομάδα"
 
 #: src/view/com/util/post-embeds/VideoEmbedInner/web-controls/Scrubber.tsx:195
 msgid "{0} of {1}"
@@ -126,7 +126,7 @@ msgstr ""
 
 #: src/screens/StarterPack/StarterPackScreen.tsx:479
 msgid "{0} people have used this starter pack!"
-msgstr "{0} Personen haben dieses Startpaket bereits verwendet!"
+msgstr "{0} άτομα που έχουν χρησιμοποιήσει το πακέτο εισαγωγής!"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:203
 msgid "{0} unread items"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: src/view/com/util/UserAvatar.tsx:435
 msgid "{0}'s avatar"
-msgstr "Der Avatar von {0}"
+msgstr "Εικόνα του {0}"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:68
 msgid "{0}'s favorite feeds and people - join me!"
@@ -142,7 +142,7 @@ msgstr "Die Lieblings-Feeds und -Leute von {0} – mach mit!"
 
 #: src/screens/StarterPack/Wizard/StepDetails.tsx:47
 msgid "{0}'s starter pack"
-msgstr "Startpaket von {0}"
+msgstr "Πακέτα εισαγωγής του {0}"
 
 #. How many days have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:158
@@ -208,11 +208,11 @@ msgstr "Startpaket von {displayName}"
 
 #: src/screens/SignupQueued.tsx:207
 msgid "{estimatedTimeHrs, plural, one {hour} other {hours}}"
-msgstr "{estimatedTimeHrs, plural, one {Stunde} other {Stunden}}"
+msgstr "{estimatedTimeHrs, plural, one {Ώρα} other {Ώρες}}"
 
 #: src/screens/SignupQueued.tsx:213
 msgid "{estimatedTimeMins, plural, one {minute} other {minutes}}"
-msgstr "{estimatedTimeMins, plural, one {Minute} other {Minuten}}"
+msgstr "{estimatedTimeMins, plural, one {Λεπτό} other {Λεπτά}}"
 
 #: src/view/com/notifications/FeedItem.tsx:300
 msgid "{firstAuthorLink} and <0>{additionalAuthorsCount, plural, one {{formattedAuthorsCount} other} other {{formattedAuthorsCount} others}}</0> followed you"
@@ -305,7 +305,7 @@ msgstr ""
 #: src/components/ProfileHoverCard/index.web.tsx:508
 #: src/screens/Profile/Header/Metrics.tsx:50
 msgid "{following} following"
-msgstr "{following} Folge ich"
+msgstr "{following} Ακολουθεί"
 
 #: src/components/dms/dialogs/SearchablePeopleList.tsx:385
 msgid "{handle} can't be messaged"
@@ -319,7 +319,7 @@ msgstr "{likeCount, plural, one {Geliked von # Konto} other {Geliked von # Konte
 
 #: src/view/shell/Drawer.tsx:448
 msgid "{numUnreadNotifications} unread"
-msgstr "{numUnreadNotifications} ungelesen"
+msgstr "{numUnreadNotifications} αδιάβαστα"
 
 #: src/view/shell/bottom-bar/BottomBar.tsx:230
 msgid "{numUnreadNotifications} unread items"
